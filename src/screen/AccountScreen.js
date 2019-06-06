@@ -72,7 +72,7 @@ export default class AccountScreen extends Component {
                 <View style={{ flex: 1, marginTop: 4, flexDirection: 'column' }}>
                     <View style={{ flex: 1, flexDirection: 'column', padding: 20, margin: 10, backgroundColor: '#white' }}>
                         <Image style={{ width: 100, height: 100, borderRadius: 50, }} source={{ uri: this.state.mAvatar }} />
-                        <Text style={{ fontSize: 20 }}>YOUR NAME</Text>
+                        <Text style={{ fontSize: 20 }}>Thanh Vuong</Text>
                         {this._showMember()}
                     </View>
                     <View style={{ flex: 2, marginTop: 10, flexDirection: 'column', backgroundColor: '#FFFFFF' }}>
