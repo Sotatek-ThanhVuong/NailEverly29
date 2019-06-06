@@ -1,1 +1,3 @@
 node_modules
+# Ignore package-lock npm
+package-lock.json
